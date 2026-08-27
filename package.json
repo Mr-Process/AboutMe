@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Owner of **NovaTerra Venture LLC** (Houston, TX)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Process/AboutMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Process/AboutMe/issues"
+  },
+  "homepage": "https://github.com/Mr-Process/AboutMe#readme"
+}
