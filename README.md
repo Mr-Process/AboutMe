@@ -27,6 +27,10 @@ We are building an AI Platform designed to evolve alongside the future of artifi
 
 Here is a living overview of my current projects, experiments, and tools, automatically updated to reflect my latest work:
 
+*   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
+    *A work in progress or experimental project without a description yet.*
+    *Built with **JavaScript** • Last active: Aug 31, 2026*
+
 *   **[t-rex-claw](https://github.com/Mr-Process/t-rex-claw)**
     *T-Rex Claw OS - Cyberpunk Production Deployment System. Self-healing Docker orchestration with 7 containers, AI-powered multi-agent routing, vector memory, and neon-green glassmorphism UI.*
     *Built with **Python** • Last active: Aug 30, 2026*
@@ -34,10 +38,6 @@ Here is a living overview of my current projects, experiments, and tools, automa
 *   **[acp-bridge-mcp](https://github.com/Mr-Process/acp-bridge-mcp)**
     *MCP ↔ ACP bridge: Cloudflare Worker bridging Model Context Protocol to Agent Commerce Protocol (ERC-8183)*
     *Built with **TypeScript** • Last active: Aug 30, 2026*
-
-*   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
-    *A work in progress or experimental project without a description yet.*
-    *Built with **JavaScript** • Last active: Aug 30, 2026*
 
 *   **[fhe-saas-analytics](https://github.com/Mr-Process/fhe-saas-analytics)**
     *Privacy-preserving SaaS analytics service using Fully Homomorphic Encryption (FHE)*
