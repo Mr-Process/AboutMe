@@ -27,9 +27,13 @@ We are building an AI Platform designed to evolve alongside the future of artifi
 
 Here is a living overview of my current projects, experiments, and tools, automatically updated to reflect my latest work:
 
+*   **[agent-decision-log](https://github.com/Mr-Process/agent-decision-log)**
+    *A work in progress or experimental project without a description yet.*
+    *Built with **TypeScript** • Last active: Sep 3, 2026*
+
 *   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
     *A work in progress or experimental project without a description yet.*
-    *Built with **JavaScript** • Last active: Sep 2, 2026*
+    *Built with **JavaScript** • Last active: Sep 3, 2026*
 
 *   **[t-rex-claw](https://github.com/Mr-Process/t-rex-claw)**
     *T-Rex Claw OS - Cyberpunk Production Deployment System. Self-healing Docker orchestration with 7 containers, AI-powered multi-agent routing, vector memory, and neon-green glassmorphism UI.*
@@ -42,10 +46,6 @@ Here is a living overview of my current projects, experiments, and tools, automa
 *   **[fhe-saas-analytics](https://github.com/Mr-Process/fhe-saas-analytics)**
     *Privacy-preserving SaaS analytics service using Fully Homomorphic Encryption (FHE)*
     *Built with **Python** • Last active: Aug 29, 2026*
-
-*   **[agent-decision-log](https://github.com/Mr-Process/agent-decision-log)**
-    *A work in progress or experimental project without a description yet.*
-    *Built with **TypeScript** • Last active: Aug 28, 2026*
 
 *   **[evanes-update-artifacts](https://github.com/Mr-Process/evanes-update-artifacts)**
     *Public signed rule artifacts for Evanes Browser; no source code, credentials, or user data.*
