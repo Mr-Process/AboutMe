@@ -27,9 +27,13 @@ We are building an AI Platform designed to evolve alongside the future of artifi
 
 Here is a living overview of my current projects, experiments, and tools, automatically updated to reflect my latest work:
 
+*   **[mcp-validator](https://github.com/Mr-Process/mcp-validator)**
+    *A work in progress or experimental project without a description yet.*
+    *Built with **TypeScript** • Last active: Sep 11, 2026*
+
 *   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
     *A work in progress or experimental project without a description yet.*
-    *Built with **JavaScript** • Last active: Sep 9, 2026*
+    *Built with **JavaScript** • Last active: Sep 10, 2026*
 
 *   **[agent-decision-log](https://github.com/Mr-Process/agent-decision-log)**
     *A work in progress or experimental project without a description yet.*
@@ -50,10 +54,6 @@ Here is a living overview of my current projects, experiments, and tools, automa
 *   **[evanes-update-artifacts](https://github.com/Mr-Process/evanes-update-artifacts)**
     *Public signed rule artifacts for Evanes Browser; no source code, credentials, or user data.*
     *Built with Mixed / Undetected • Last active: Aug 26, 2026*
-
-*   **[mcp-validator](https://github.com/Mr-Process/mcp-validator)**
-    *A work in progress or experimental project without a description yet.*
-    *Built with **TypeScript** • Last active: Aug 20, 2026*
 
 *   **[Shellmate-ai](https://github.com/Mr-Process/Shellmate-ai)**
     *A work in progress or experimental project without a description yet.*
