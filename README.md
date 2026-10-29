@@ -27,9 +27,13 @@ We are building an AI Platform designed to evolve alongside the future of artifi
 
 Here is a living overview of my current projects, experiments, and tools, automatically updated to reflect my latest work:
 
+*   **[telegram-clone-worker](https://github.com/Mr-Process/telegram-clone-worker)**
+    *A work in progress or experimental project without a description yet.*
+    *Built with **TypeScript** • Last active: Oct 28, 2026*
+
 *   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
     *A work in progress or experimental project without a description yet.*
-    *Built with **JavaScript** • Last active: Oct 27, 2026*
+    *Built with **JavaScript** • Last active: Oct 28, 2026*
 
 *   **[mcp-validator](https://github.com/Mr-Process/mcp-validator)**
     *A work in progress or experimental project without a description yet.*
@@ -63,10 +67,8 @@ Here is a living overview of my current projects, experiments, and tools, automa
     *Tweak & Geeks.Let hope I don't break it .*
     *Built with **JavaScript** • Last active: Apr 30, 2024*
 
-*   **[Puter_Test](https://github.com/Mr-Process/Puter_Test)**
-    *Puter Idea*
-    *Built with Mixed / Undetected • Last active: Apr 30, 2024*
 
+*...and 1 more projects that I'm building! Check out my [repositories page](https://github.com/Mr-Process?tab=repositories) for the full list.*
 
 <!-- PROJECTS_END -->
 
