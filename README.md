@@ -27,9 +27,13 @@ We are building an AI Platform designed to evolve alongside the future of artifi
 
 Here is a living overview of my current projects, experiments, and tools, automatically updated to reflect my latest work:
 
+*   **[Aethergram](https://github.com/Mr-Process/Aethergram)**
+    *Aethergram — Liquid Glass & Material 3 Telegram client for macOS powered by TDLib 1.8.70*
+    *Built with **Swift** • Last active: Nov 21, 2026*
+
 *   **[AboutMe](https://github.com/Mr-Process/AboutMe)**
     *A work in progress or experimental project without a description yet.*
-    *Built with **JavaScript** • Last active: Nov 19, 2026*
+    *Built with **JavaScript** • Last active: Nov 20, 2026*
 
 *   **[telegram-clone-worker](https://github.com/Mr-Process/telegram-clone-worker)**
     *A work in progress or experimental project without a description yet.*
@@ -63,12 +67,8 @@ Here is a living overview of my current projects, experiments, and tools, automa
     *A work in progress or experimental project without a description yet.*
     *Built with Mixed / Undetected • Last active: Jul 4, 2025*
 
-*   **[Clone](https://github.com/Mr-Process/Clone)** ⭐ 1
-    *Tweak & Geeks.Let hope I don't break it .*
-    *Built with **JavaScript** • Last active: Apr 30, 2024*
 
-
-*...and 1 more projects that I'm building! Check out my [repositories page](https://github.com/Mr-Process?tab=repositories) for the full list.*
+*...and 2 more projects that I'm building! Check out my [repositories page](https://github.com/Mr-Process?tab=repositories) for the full list.*
 
 <!-- PROJECTS_END -->
 
